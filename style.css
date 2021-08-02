@@ -4,4 +4,16 @@ html, body {
 }
 canvas {
   display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
+  text-align: center;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
 }
